@@ -1,0 +1,1095 @@
+[
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "What is data?",
+    "body": "<p>Data is a valuable resource to organisations of all sizes.</p><p>Increasing numbers of organisations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What is data?</li><li>The data spectrum</li><li>Types of data</li><li>Why do we need data?</li></ul>",
+    "_id": "62b98aad39a1c18b258f9532",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9525",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Types of data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9533",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f952d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "small": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9534",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f952a",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/4b9908969dc041bf339cf058c604f831175f8ef8.jpg",
+      "large": "course/en/assets/4b9908969dc041bf339cf058c604f831175f8ef8.jpg",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Why do we need data?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9535",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f952f",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Why do we need data?",
+    "displayTitle": "Why do we need data?",
+    "body": "<p><strong>Organisations are increasingly using data to...</strong></p>",
+    "_id": "62b98aad39a1c18b258f9536",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f952f",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    },
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      },
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p><strong>Are you sure?</strong></p><p>Whether looking at operations, finance or products and services, organisations&nbsp;increasingly use data to understand how their business works&nbsp;and how they perform.</p>"
+      },
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Whether looking at operations, finance or products and services, organisations&nbsp;increasingly use data to understand how their business works&nbsp;and how they perform.</p>"
+    },
+    "_selectable": 1,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_canShowMarking": true,
+    "_canShowFeedback": true,
+    "_canShowModelAnswer": true,
+    "_attempts": 1,
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "understand how their business works and how they perform"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Unlock social, environmental and economic value"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Hold individuals to account"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Theme logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9537",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9525",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9538",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9527",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Square image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9539",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9530",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is data?",
+    "displayTitle": "What is data?",
+    "body": "<p>Without data we can’t build information, and without information there is no new knowledge.</p>",
+    "_id": "62b98aad39a1c18b258f953a",
+    "_layout": "full",
+    "_parentId": "62b98aad39a1c18b258f952c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "_ariaLevel": 0,
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Data"
+      },
+      {
+        "title": "Information",
+        "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366\" target=\"_blank\">Sachezi </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Information"
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f953b",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9528",
+    "_type": "component",
+    "instruction": "",
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What is data?",
+    "displayTitle": "What is data?",
+    "body": "<p><strong>Data is...</strong></p>",
+    "_id": "62b98aad39a1c18b258f953c",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9528",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    },
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      },
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+      },
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+    },
+    "_selectable": 1,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_canShowMarking": true,
+    "_canShowFeedback": true,
+    "_canShowModelAnswer": true,
+    "_attempts": 1,
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "numbers, words, maps and photos."
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "information posted on the Web."
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "the raw material of information and knowledge."
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why do we need data?",
+    "displayTitle": "Why do we need data?",
+    "body": "<p>Data is a valuable resource to organisations of all sizes. When used effectively, data&nbsp;can lead to new insights and unexpected benefits.&nbsp;Whether looking at operations, finance or products and services, organisations&nbsp;increasingly use data to understand how their business works&nbsp;and how they perform.</p><p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p><p>Find out more about the diverse benefits of data-driven decisions in <a href=\"#/id/5894b15efda9f5660ad8426f\">Unlocking value from open&nbsp;data</a> and <a href=\"#/id/589b213cfda9f5660ad845a6\">Convincing your colleagues</a>.</p>",
+    "_id": "62b98aad39a1c18b258f953d",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9531",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: The data spectrum",
+    "displayTitle": "The data spectrum",
+    "body": "<p><strong>Group-based access data is data that is...</strong></p>",
+    "_id": "62b98aad39a1c18b258f953e",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f952a",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    },
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      },
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Group-based access data is shared with anyone who meets certain professional or usage conditions.</p><p>Group-based access is granted on the basis of authentication. The person accessing the data must prove, to the satisfaction of the sharing organisation, that they belong to the class of people granted access.</p>"
+      },
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Group-based access data is shared with anyone who meets certain professional or usage conditions.</p><p>Group-based access is granted on the basis of authentication. The person accessing the data must prove, to the satisfaction of the sharing organisation, that they belong to the class of people granted access.</p>"
+    },
+    "_selectable": 1,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_canShowMarking": true,
+    "_canShowFeedback": true,
+    "_canShowModelAnswer": true,
+    "_attempts": 1,
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "shared with anyone who meets certain professional or usage conditions"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "shared with named individuals"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "free of restrictions for its use"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Types of data",
+    "displayTitle": "Types of data",
+    "body": "<p><strong>Market sensitive data is...</strong></p>",
+    "_id": "62b98aad39a1c18b258f953f",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f952d",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    },
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      },
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p><strong>Are you sure?</strong></p><p>Market sensitive data is data that could influence the London market or data that&nbsp;is proprietary to Lloyd&rsquo;s.</p>"
+      },
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Market sensitive data is data that could influence the London market or data that&nbsp;is proprietary to Lloyd&rsquo;s.</p>"
+    },
+    "_selectable": 1,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_isRandom": false,
+    "_shouldDisplayAttempts": false,
+    "_canShowMarking": true,
+    "_canShowFeedback": true,
+    "_canShowModelAnswer": true,
+    "_attempts": 1,
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "data that could influence the London markets"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "data that anyone can access, use and share"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "data that defines values to be used by other data"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Why do we need data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9540",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9531",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of data",
+    "displayTitle": "Types of data",
+    "body": "<p>There are different types of data that you may come across. Below we explore some of the most common types of data at Lloyd&#39;s and where they fit on the data spectrum.</p>",
+    "_id": "62b98aad39a1c18b258f9541",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9530",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_shouldCollapseItems": true,
+    "_items": [
+      {
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "body": "<p>Market data is data about the London market, provided by the London market, and available to those within the market, for example [the Lloyd&rsquo;s statistics].</p><p>This is an example of shared data as it is group-based access.</p>",
+        "title": "Market data"
+      },
+      {
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "body": "<p>Market sensitive data is data that could influence the London market or data that&nbsp;is proprietary to Lloyd&rsquo;s.</p><p>This is another example of shared data, but on internal or named based access.</p>",
+        "title": "Market sensitive data"
+      },
+      {
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "body": "<p>Reference data is data that defines values to be used by other data.</p><p>Reference data becomes the most valuable when combined with other datasets.</p><p>Reference data can be open, shared, or closed. For example a dataset of&nbsp;<a href=\"https://data.gov.uk/dataset/country-register-2\">country codes</a>&nbsp;is open data. However, a reference dataset&nbsp;of risk codes or product IDs&nbsp;might be shared, either within an organisation (internal access) or between organisations (group-based access).</p>",
+        "title": "Reference data"
+      },
+      {
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "body": "<p>Data exhaust is data that is produced as a product of other data.</p><p>For example, on a telephone call the main data the voices and what is said. The data that is also produced is data like the location of the speakers, the length of time for the call and the phone operators involved.</p><p>Where data exhaust exists on the spectrum depends on the data. In the above example, it is likely to be shared on a group-based access. This will depend on the terms and conditions&nbsp;of the phone operators.</p>",
+        "title": "Data exhaust"
+      },
+      {
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>",
+        "title": "Open data"
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why do we need data?",
+    "displayTitle": "Why do we need data?",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9542",
+    "_layout": "full",
+    "_parentId": "62b98aad39a1c18b258f952b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/129196639?texttrack=en",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Are you ready for data?",
+    "displayTitle": "Are you ready for data?",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9543",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9526",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Demo only",
+    "displayTitle": "Demo only",
+    "body": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.<strong> </strong></p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p><p>Within this package you will also find a couple of grey images that give dimensions for the square and rectangular images used consistently throughout.&nbsp;</p>",
+    "_id": "62b98aad39a1c18b258f9544",
+    "_parentId": "62b98aad39a1c18b258f9529",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How did you do?",
+    "displayTitle": "How did you do?",
+    "body": "<p>Complete the assessment to see your result here.</p>",
+    "_id": "62b98aad39a1c18b258f9545",
+    "_parentId": "62b98aad39a1c18b258f9524",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_assessmentId": "module1",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": ""
+    },
+    "_completionBody": "<p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p style=\"font-size: 2em\">{{score}}/4</p><p>Could do better!</p><p>You achieved&nbsp;a score of {{score}}/4. The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz!</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      },
+      {
+        "_score": 50,
+        "feedback": "<p style=\"font-size: 2em\">{{score}}/4</p><p>Getting there.</p><p>You got half or more right,&nbsp;achieving a score of {{score}}/4. You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge.&nbsp;</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      },
+      {
+        "_score": 75,
+        "feedback": "<p style=\"font-size: 2em\">{{score}}/4</p><p>Aced it!</p><p>You passed, well done! ({{score}}/4).</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p><p>Data is a valuable resource to organisations of all sizes. &nbsp;Increasing numbers of organisations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p><p>In the next module, we will explore how value is unlocked in open data.</p>",
+    "_id": "62b98aad39a1c18b258f9546",
+    "_layout": "left",
+    "_parentId": "62b98aad39a1c18b258f9527",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The data spectrum",
+    "displayTitle": "The data spectrum",
+    "body": "<p>Data exists on a spectrum, from <strong>closed</strong> to <strong>shared</strong> to <strong>open</strong>.</p><p>The data spectrum can help you classify and agree on sharing arrangements for your data assets. Click on each of the pins below to discover which data goes under which part of the spectrum.</p>",
+    "_id": "62b98aad39a1c18b258f9547",
+    "_layout": "full",
+    "_parentId": "62b98aad39a1c18b258f952e",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/40ea6a26109bfd9e74e2c78f56bebcce4577ffc6.jpg",
+      "alt": "",
+      "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">The Open Data Spectrum (learning edition)</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "_top": 75,
+        "_left": 13.3,
+        "_classes": "",
+        "_graphic": {
+          "_classes": "",
+          "title": "",
+          "alt": "",
+          "src": "course/en/assets/6a0a91e76bc18535113eb85d50ab3cee62d57e04.png"
+        },
+        "strapline": "Closed",
+        "body": "<p>Internal access is the most private type of data shared only with selected individuals inside the organisation.</p><p>Whether closed to protect sensitive personal information such as salaries or to keep private commercially sensitive details of operations, internal access data can only be accessed by those in specific roles within the organisation.</p>",
+        "title": "Internal Access"
+      },
+      {
+        "_top": 75,
+        "_left": 26.9,
+        "_classes": "",
+        "_graphic": {
+          "_classes": "",
+          "title": "",
+          "alt": "Named Access",
+          "src": "course/en/assets/d2a6aea242ee20f9a5083afe1f520727c022484a.png"
+        },
+        "strapline": "Named Access",
+        "body": "<p>Named access data is shared only with named individuals. These people can be inside the organisation or in partner organisations.</p><p>Named access data is only accessed on the based of a signed agreement between the party sharing the data and the party accessing it.</p>",
+        "title": "Named access"
+      },
+      {
+        "_top": 75,
+        "_left": 41,
+        "_classes": "",
+        "_graphic": {
+          "_classes": "",
+          "title": "",
+          "alt": "",
+          "src": "course/en/assets/85a49d9ec53c78ab856cfcd3de0f7de618c4f2a4.png"
+        },
+        "strapline": "Group-based access",
+        "body": "<p>Group-based access data is shared with anyone who meets certain professional or usage conditions. For example, you might choose to share product availability quantities with anyone working for a retailer but not with those working for a competitor.</p><p>Group-based access is granted on the basis of authentication. The person accessing the data must prove, to the satisfaction of the sharing organisation, that they belong to the class of people granted access.</p>",
+        "title": "Group-based access"
+      },
+      {
+        "_top": 75,
+        "_left": 61.2,
+        "_classes": "",
+        "_graphic": {
+          "_classes": "",
+          "title": "",
+          "alt": "",
+          "src": "course/en/assets/f494970aa6b0cccd94671238e7d8bd663f59fa1d.png"
+        },
+        "strapline": "Public access",
+        "body": "<p>Public access data can be located online by anyone. However, while people may be able to find this data, there are still legal protections in place that prevent the free use or sharing of this data.</p><p>Your public access data is often part of your web presence or data you otherwise want people to experience without having the legal right to use and share that data themselves.</p>",
+        "title": "Public access"
+      },
+      {
+        "_top": 75,
+        "_left": 81.3,
+        "_classes": "",
+        "_graphic": {
+          "_classes": "",
+          "title": "",
+          "alt": "",
+          "src": "course/en/assets/a3038084b5bda8cb230ca1e2ecf31c85f3abb662.png"
+        },
+        "strapline": "Open",
+        "body": "<p>Open data is data that anyone can access use and share. Your open data is data that is accessible without limitation to the public subject to certain licence conditions such as the obligation to credit you as the source.&nbsp;</p><p>Open data can be any non-personal data type where the organisation deems it more beneficial to share without restriction.</p>",
+        "title": "Open"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "62b98aad39a1c18b258f9548",
+    "_layout": "right",
+    "_parentId": "62b98aad39a1c18b258f9526",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "alt": ""
+    },
+    "instruction": ""
+  }
+]
