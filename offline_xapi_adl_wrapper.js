@@ -2,7 +2,7 @@ var actor = {
   "objectType": "Agent",
   "name": "Testy McTestface",
   "account": {
-    "homePage": "http://theodi.rog/users",
+    "homePage": "http://www.example.com/users",
     "name": "1234567890"
   }
 };
