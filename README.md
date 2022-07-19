@@ -3,6 +3,7 @@ The repository holds the xapi test package.
 You an view the adapt module at https://xapi-test.learndata.info
 
 The standalone build (basically this repository), with XAPI endpoint, key etc configured, is available as a zip in build-standalone.zip
+
 The build for inclusion in a LMS, without XAPI endpoint configured, is available as a zip in build-stream.zip
 
 The src-export that can be imported into an authoring tool is available in src-export.zip
