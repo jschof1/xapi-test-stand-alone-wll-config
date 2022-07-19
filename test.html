@@ -9,7 +9,27 @@
   <body>
 	<script>
    //variables
-	console.log(document.cookies)
-	  </script>
+		        function uuidv4() {
+          return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+            (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+          );
+        }
+      var courseUser = `${uuidv4()}`
+          var actor = {
+            "objectType": "Agent",
+            "name": courseUser,
+            "account": {
+              "homePage": "https://theodi.org",
+              "name": courseUser
+            }
+          }
+
+          // an actor does not exist in the url so set one from local storage
+          // localStorage.setItem('info.learndata.actor', JSON.stringify(actor));
+          // localStorage.setItem('info.learndata.registration', uuidv4())
+          let baseDomain = '.learndata.info'
+//           document.cookie=`actor={${JSON.stringify(actor)}}; domain=${baseDomain}; path=/`;
+	  document.cookies='cookie1=test; path=/'
+   </script>
   </body>
 </html>
