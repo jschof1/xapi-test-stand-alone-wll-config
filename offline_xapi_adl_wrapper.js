@@ -2,7 +2,7 @@ var actor = {
   "objectType": "Agent",
   "name": "Testy McTestface",
   "account": {
-    "homePage": "http://www.example.com/users",
+    "homePage": "https://theodi.org/users",
     "name": "1234567890"
   }
 };
