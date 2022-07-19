@@ -12,9 +12,9 @@
     "title": "Overview",
     "displayTitle": "What is data?",
     "body": "<p>Data is a valuable resource to organisations of all sizes.</p><p>Increasing numbers of organisations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What is data?</li><li>The data spectrum</li><li>Types of data</li><li>Why do we need data?</li></ul>",
-    "_id": "62b98aad39a1c18b258f9532",
+    "_id": "5fd8d72191349e0067628ea9",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9525",
+    "_parentId": "5fd8d72191349e0067628e9c",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -23,7 +23,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "mobile-hide",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -31,28 +31,22 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " Types of data",
-    "displayTitle": "",
+    "title": " ",
+    "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9533",
+    "_id": "5fd8d72191349e0067628eaa",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f952d",
+    "_parentId": "5fd8d72191349e0067628ea4",
     "_type": "component",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "attribution": "",
       "small": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
-      "attribution": ""
+      "large": "course/en/assets/d0b65072b086ee4a1d61ca5614571d734365e805.jpg",
+      "alt": ""
     }
   },
   {
@@ -68,9 +62,9 @@
     "title": " ",
     "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9534",
+    "_id": "5fd8d72191349e0067628eab",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f952a",
+    "_parentId": "5fd8d72191349e0067628ea1",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -85,7 +79,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "mobile-hide",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -93,28 +87,22 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " Why do we need data?",
-    "displayTitle": "",
+    "title": " ",
+    "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9535",
+    "_id": "5fd8d72191349e0067628eac",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f952f",
+    "_parentId": "5fd8d72191349e0067628ea6",
     "_type": "component",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": "",
       "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
-      "attribution": ""
+      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "alt": ""
     }
   },
   {
@@ -130,9 +118,9 @@
     "title": "Q: Why do we need data?",
     "displayTitle": "Why do we need data?",
     "body": "<p><strong>Organisations are increasingly using data to...</strong></p>",
-    "_id": "62b98aad39a1c18b258f9536",
+    "_id": "5fd8d72191349e0067628ead",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f952f",
+    "_parentId": "5fd8d72191349e0067628ea6",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -202,7 +190,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo mobile-hide",
+    "_classes": "intro-logo",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -213,9 +201,9 @@
     "title": " Theme logo",
     "displayTitle": "",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9537",
+    "_id": "5fd8d72191349e0067628eae",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9525",
+    "_parentId": "5fd8d72191349e0067628e9c",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -236,7 +224,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "mobile-hide",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -244,12 +232,12 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Clipboard",
+    "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9538",
+    "_id": "5fd8d72191349e0067628eaf",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9527",
+    "_parentId": "5fd8d72191349e0067628e9e",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -278,28 +266,19 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " Square image",
-    "displayTitle": "",
+    "title": " ",
+    "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9539",
+    "_id": "5fd8d72191349e0067628eb0",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9530",
+    "_parentId": "5fd8d72191349e0067628ea7",
     "_type": "component",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "attribution": "",
+      "small": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "large": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "alt": ""
     }
   },
   {
@@ -315,9 +294,9 @@
     "title": "What is data?",
     "displayTitle": "What is data?",
     "body": "<p>Without data we can’t build information, and without information there is no new knowledge.</p>",
-    "_id": "62b98aad39a1c18b258f953a",
+    "_id": "5fd8d72191349e0067628eb1",
     "_layout": "full",
-    "_parentId": "62b98aad39a1c18b258f952c",
+    "_parentId": "5fd8d72191349e0067628ea3",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -325,8 +304,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": true
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "",
@@ -335,12 +313,11 @@
     "_items": [
       {
         "title": "Data",
-        "_ariaLevel": 0,
         "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
         },
         "strapline": "Data"
       },
@@ -379,9 +356,9 @@
     "title": " ",
     "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f953b",
+    "_id": "5fd8d72191349e0067628eb2",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9528",
+    "_parentId": "5fd8d72191349e0067628e9f",
     "_type": "component",
     "instruction": "",
     "_graphic": {
@@ -404,9 +381,9 @@
     "title": "Q: What is data?",
     "displayTitle": "What is data?",
     "body": "<p><strong>Data is...</strong></p>",
-    "_id": "62b98aad39a1c18b258f953c",
+    "_id": "5fd8d72191349e0067628eb3",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9528",
+    "_parentId": "5fd8d72191349e0067628e9f",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -487,9 +464,9 @@
     "title": "Why do we need data?",
     "displayTitle": "Why do we need data?",
     "body": "<p>Data is a valuable resource to organisations of all sizes. When used effectively, data&nbsp;can lead to new insights and unexpected benefits.&nbsp;Whether looking at operations, finance or products and services, organisations&nbsp;increasingly use data to understand how their business works&nbsp;and how they perform.</p><p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p><p>Find out more about the diverse benefits of data-driven decisions in <a href=\"#/id/5894b15efda9f5660ad8426f\">Unlocking value from open&nbsp;data</a> and <a href=\"#/id/589b213cfda9f5660ad845a6\">Convincing your colleagues</a>.</p>",
-    "_id": "62b98aad39a1c18b258f953d",
+    "_id": "5fd8d72191349e0067628eb4",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9531",
+    "_parentId": "5fd8d72191349e0067628ea8",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -509,9 +486,9 @@
     "title": "Q: The data spectrum",
     "displayTitle": "The data spectrum",
     "body": "<p><strong>Group-based access data is data that is...</strong></p>",
-    "_id": "62b98aad39a1c18b258f953e",
+    "_id": "5fd8d72191349e0067628eb5",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f952a",
+    "_parentId": "5fd8d72191349e0067628ea1",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -592,9 +569,9 @@
     "title": "Q: Types of data",
     "displayTitle": "Types of data",
     "body": "<p><strong>Market sensitive data is...</strong></p>",
-    "_id": "62b98aad39a1c18b258f953f",
+    "_id": "5fd8d72191349e0067628eb6",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f952d",
+    "_parentId": "5fd8d72191349e0067628ea4",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -664,7 +641,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "mobile-hide",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -672,28 +649,22 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " Why do we need data",
-    "displayTitle": "",
+    "title": " ",
+    "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9540",
+    "_id": "5fd8d72191349e0067628eb7",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9531",
+    "_parentId": "5fd8d72191349e0067628ea8",
     "_type": "component",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "attribution": "",
       "small": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
-      "attribution": ""
+      "large": "course/en/assets/87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg",
+      "alt": ""
     }
   },
   {
@@ -709,9 +680,9 @@
     "title": "Types of data",
     "displayTitle": "Types of data",
     "body": "<p>There are different types of data that you may come across. Below we explore some of the most common types of data at Lloyd&#39;s and where they fit on the data spectrum.</p>",
-    "_id": "62b98aad39a1c18b258f9541",
+    "_id": "5fd8d72191349e0067628eb8",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9530",
+    "_parentId": "5fd8d72191349e0067628ea7",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -779,9 +750,9 @@
     "title": "Why do we need data?",
     "displayTitle": "Why do we need data?",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9542",
+    "_id": "5fd8d72191349e0067628eb9",
     "_layout": "full",
-    "_parentId": "62b98aad39a1c18b258f952b",
+    "_parentId": "5fd8d72191349e0067628ea2",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -837,9 +808,9 @@
     "title": "Are you ready for data?",
     "displayTitle": "Are you ready for data?",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9543",
+    "_id": "5fd8d72191349e0067628eba",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9526",
+    "_parentId": "5fd8d72191349e0067628e9d",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -858,9 +829,9 @@
     "_disableAccessibilityState": false,
     "title": "Demo only",
     "displayTitle": "Demo only",
-    "body": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.<strong> </strong></p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p><p>Within this package you will also find a couple of grey images that give dimensions for the square and rectangular images used consistently throughout.&nbsp;</p>",
-    "_id": "62b98aad39a1c18b258f9544",
-    "_parentId": "62b98aad39a1c18b258f9529",
+    "body": "<p>This is a demo SCORM object provided by the Open Data Institute in order to test the technical integration into learning management systems.<strong> </strong></p><p><strong>It is not a content or theme demonstration. Content and look and feed is&nbsp;deliberately rough to act as a watermark.&nbsp;</strong></p><p>The developer tools cog (top right) enables the testing of the core functionality of the SCORM object without having the manually complete the lesson each time.&nbsp;</p>",
+    "_id": "5fd8d72191349e0067628ebb",
+    "_parentId": "5fd8d72191349e0067628ea0",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -869,8 +840,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": false
     },
     "instruction": ""
   },
@@ -887,8 +857,8 @@
     "title": "How did you do?",
     "displayTitle": "How did you do?",
     "body": "<p>Complete the assessment to see your result here.</p>",
-    "_id": "62b98aad39a1c18b258f9545",
-    "_parentId": "62b98aad39a1c18b258f9524",
+    "_id": "5fd8d72191349e0067628ebc",
+    "_parentId": "5fd8d72191349e0067628e9b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -941,9 +911,9 @@
     "title": "Summary",
     "displayTitle": "Summary",
     "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p><p>Data is a valuable resource to organisations of all sizes. &nbsp;Increasing numbers of organisations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p><p>In the next module, we will explore how value is unlocked in open data.</p>",
-    "_id": "62b98aad39a1c18b258f9546",
+    "_id": "5fd8d72191349e0067628ebd",
     "_layout": "left",
-    "_parentId": "62b98aad39a1c18b258f9527",
+    "_parentId": "5fd8d72191349e0067628e9e",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -968,9 +938,9 @@
     "title": "The data spectrum",
     "displayTitle": "The data spectrum",
     "body": "<p>Data exists on a spectrum, from <strong>closed</strong> to <strong>shared</strong> to <strong>open</strong>.</p><p>The data spectrum can help you classify and agree on sharing arrangements for your data assets. Click on each of the pins below to discover which data goes under which part of the spectrum.</p>",
-    "_id": "62b98aad39a1c18b258f9547",
+    "_id": "5fd8d72191349e0067628ebe",
     "_layout": "full",
-    "_parentId": "62b98aad39a1c18b258f952e",
+    "_parentId": "5fd8d72191349e0067628ea5",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -1077,9 +1047,9 @@
     "title": " ",
     "displayTitle": " ",
     "body": "",
-    "_id": "62b98aad39a1c18b258f9548",
+    "_id": "5fd8d72191349e0067628ebf",
     "_layout": "right",
-    "_parentId": "62b98aad39a1c18b258f9526",
+    "_parentId": "5fd8d72191349e0067628e9d",
     "_type": "component",
     "_pageLevelProgress": {
       "_isEnabled": false

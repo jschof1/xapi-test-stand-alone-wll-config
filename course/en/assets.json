@@ -1,271 +1,371 @@
 {
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "6245b8e520eb6fb42ee8962b"
-      },
-      {
-        "title": "intro logo",
-        "_id": "6245b8e520eb6fb42ee8962c"
-      }
-    ]
-  },
   "058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg": {
     "title": "Data Information Knowledge Triangle 3 (small)",
     "description": "Data Information Knowledge Triangle 3 ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark ",
     "tags": [
       {
         "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
+        "_id": "5ee3979cb045644557c81a3d"
       },
       {
         "title": "Cartoon",
-        "_id": "6245b8dc20eb6fb42ee8956c"
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
         "title": "Cartoon set 3",
-        "_id": "62b5cdc7729b2b4f76322d79"
+        "_id": "5ee3979cb045644557c81a3f"
       }
     ]
   },
   "099adb319c4910eec7c518c71cb42752af62327c.jpg": {
     "title": "laptop folder network",
     "description": "laptop folder network",
+    "source": "https://www.shutterstock.com/image-illustration/data-transferring-285210746",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Horscope ",
     "tags": [
       {
         "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
-      },
-      {
-        "title": "people",
-        "_id": "6245b8dc20eb6fb42ee89578"
+        "_id": "5ee3979cb045644557c81a3d"
       },
       {
         "title": "files",
-        "_id": "62b5cdd6729b2b4f76322d7b"
+        "_id": "5ee3979cb045644557c81a44"
+      },
+      {
+        "title": "people",
+        "_id": "5ee3979cb045644557c81a45"
       }
     ]
   },
-  "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
-    "title": "Rectangle placeholder image",
-    "description": "Rectangle placeholder image",
-    "tags": []
+  "14fad81b7ca38acf03071734b8362c47fd3d3997.jpg": {
+    "title": "Keyboard application ",
+    "description": "Keyboard application ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "5ee397a2b045644557c81a56"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "5ee3979cb045644557c81a3f"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "5ee3979cb045644557c81a3e"
+      },
+      {
+        "title": "computer",
+        "_id": "5ee397a2b045644557c81a55"
+      }
+    ]
   },
   "40ea6a26109bfd9e74e2c78f56bebcce4577ffc6.jpg": {
     "title": "Data spectrum without top",
     "description": "Data spectrum without top",
+    "source": "http://theodi.org/data-spectrum",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
     "tags": [
       {
-        "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
+        "title": "spectrum",
+        "_id": "5eeca1f1566a93013499cc04"
       },
       {
-        "title": "spectrum",
-        "_id": "62b5cdd7729b2b4f76322d7e"
+        "title": "Data",
+        "_id": "5ee3979cb045644557c81a3d"
       }
     ]
   },
   "4b9908969dc041bf339cf058c604f831175f8ef8.jpg": {
     "title": "data spectrum.jpg",
     "description": "Data spectrum",
+    "source": "http://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Spectrum (learning edition)",
     "tags": [
       {
-        "title": "ODI",
-        "_id": "62b5cdd7729b2b4f76322d80"
+        "title": "Data spectrum",
+        "_id": "5ee397adb045644557c81aa6"
       },
       {
-        "title": "Data spectrum",
-        "_id": "62b5cdd7729b2b4f76322d81"
+        "title": "ODI",
+        "_id": "5ee397adb045644557c81aa5"
       }
     ]
   },
   "6a0a91e76bc18535113eb85d50ab3cee62d57e04.png": {
     "title": "closed",
     "description": "Source: Noun Project, Credit: Edward Boatman, Licence: CC-BY",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
       }
     ]
-  },
-  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
-    "title": "Square image placeholder",
-    "description": "Square image placeholder",
-    "tags": []
   },
   "85a49d9ec53c78ab856cfcd3de0f7de618c4f2a4.png": {
     "title": "Group",
     "description": "Source: Noun Project, Licence: CC-0",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
       },
       {
         "title": "Communication",
-        "_id": "6245b8dc20eb6fb42ee89566"
+        "_id": "5ee3979cb045644557c81a42"
       },
       {
         "title": "Business",
-        "_id": "6245b8dd20eb6fb42ee89582"
+        "_id": "5ee397a3b045644557c81a71"
       }
     ]
   },
   "87d71623bce2e38fd0d0a3c18668799eede5ba9d.jpg": {
     "title": "strategy_square.jpg",
     "description": "Strategy, EDP Core 13, why do we need open data?",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "Strategy",
-        "_id": "6245b8e220eb6fb42ee895e1"
-      },
-      {
-        "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
+        "_id": "5ee397aeb045644557c81ae1"
       },
       {
         "title": "ideas",
-        "_id": "62b5cdd7729b2b4f76322d87"
-      },
-      {
-        "title": "creativity",
-        "_id": "62b5cdd7729b2b4f76322d88"
+        "_id": "5ee397aeb045644557c81ae2"
       },
       {
         "title": "need",
-        "_id": "62b5cdd7729b2b4f76322d86"
+        "_id": "5ee397aeb045644557c81ae3"
+      },
+      {
+        "title": "creativity",
+        "_id": "5ee397aeb045644557c81ae4"
+      },
+      {
+        "title": "Data",
+        "_id": "5ee3979cb045644557c81a3d"
       }
     ]
   },
   "8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg": {
     "title": "Data Information Knowledge Triangle 2 ",
     "description": "Data Information Knowledge Triangle 2 ",
+    "source": "https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Sachezi ",
     "tags": [
       {
         "title": "Cartoon",
-        "_id": "6245b8dc20eb6fb42ee8956c"
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
         "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
+        "_id": "5ee3979cb045644557c81a3d"
       },
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
       },
       {
         "title": "Cartoon set 3",
-        "_id": "62b5cdc7729b2b4f76322d79"
+        "_id": "5ee3979cb045644557c81a3f"
       }
     ]
   },
   "a3038084b5bda8cb230ca1e2ecf31c85f3abb662.png": {
     "title": "Open",
     "description": "Source: Noun Project, Credit: Five by Five, Licence: CC-BY",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
-        "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "title": "Legal",
+        "_id": "5ee397afb045644557c81aff"
       },
       {
-        "title": "Legal",
-        "_id": "62b5cdd7729b2b4f76322d8b"
+        "title": "Icon",
+        "_id": "5ee397aeb045644557c81ab7"
       }
     ]
   },
   "a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png": {
     "title": "Burst white",
     "description": "Source: ODI",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "ODI splash",
-        "_id": "6245b8df20eb6fb42ee895ae"
+        "_id": "5ee397a3b045644557c81a7a"
       }
     ]
   },
   "d0b65072b086ee4a1d61ca5614571d734365e805.jpg": {
     "title": "odi-11-mcq_large.jpg",
     "description": "odi-11-mcq_large.jpg",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
-        "title": "Cartoon",
-        "_id": "6245b8dc20eb6fb42ee8956c"
+        "title": "Generic",
+        "_id": "5ee397a2b045644557c81a56"
       },
       {
-        "title": "Generic",
-        "_id": "6245b8dc20eb6fb42ee8956d"
+        "title": "Cartoon",
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
         "title": "Cartoon set 3",
-        "_id": "62b5cdc7729b2b4f76322d79"
+        "_id": "5ee3979cb045644557c81a3f"
       }
     ]
   },
   "d2a6aea242ee20f9a5083afe1f520727c022484a.png": {
     "title": "contract",
     "description": "Source: Noun Project, Credit: Joe Aimonetti, Licence: CC-BY",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "Cartoon",
-        "_id": "6245b8dc20eb6fb42ee8956c"
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
+      }
+    ]
+  },
+  "ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg": {
+    "title": "data information knowledge triangle",
+    "description": "data information knowledge triangle 1",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Anna Frajtova",
+    "tags": [
+      {
+        "title": "Cartoon",
+        "_id": "5ee3979cb045644557c81a3e"
+      },
+      {
+        "title": "Data",
+        "_id": "5ee3979cb045644557c81a3d"
+      },
+      {
+        "title": "information",
+        "_id": "5ee397b3b045644557c81b2f"
+      },
+      {
+        "title": "Icon",
+        "_id": "5ee397aeb045644557c81ab7"
+      },
+      {
+        "title": "Cartoon set 3",
+        "_id": "5ee3979cb045644557c81a3f"
+      },
+      {
+        "title": "knowledge",
+        "_id": "5ee397b3b045644557c81b31"
+      },
+      {
+        "title": "DIK triangle",
+        "_id": "5ee397b3b045644557c81b30"
       }
     ]
   },
   "e9bfc830784387f82fd0b7576fdd19a235432d2e.png": {
     "title": "summary-icon.png",
     "description": "summary-icon.png",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
         "title": "ODI splash",
-        "_id": "6245b8df20eb6fb42ee895ae"
+        "_id": "5ee397a3b045644557c81a7a"
       },
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
       }
     ]
   },
   "ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg": {
     "title": "Data Information Knowledge Triangle 3 ",
     "description": "Data Information Knowledge Triangle 3 ",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Oleksiy Mark ",
     "tags": [
       {
-        "title": "Data",
-        "_id": "6245b8dd20eb6fb42ee89585"
+        "title": "Cartoon",
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
-        "title": "Cartoon",
-        "_id": "6245b8dc20eb6fb42ee8956c"
+        "title": "Data",
+        "_id": "5ee3979cb045644557c81a3d"
       },
       {
         "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "_id": "5ee397aeb045644557c81ab7"
       },
       {
         "title": "Cartoon set 3",
-        "_id": "62b5cdc7729b2b4f76322d79"
+        "_id": "5ee3979cb045644557c81a3f"
       }
     ]
   },
   "f494970aa6b0cccd94671238e7d8bd663f59fa1d.png": {
     "title": "public.png",
     "description": "Source: Noun Project, Credit: Lorena Salagre, Licence: CC-BY",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
     "tags": [
       {
-        "title": "Icon",
-        "_id": "6245b8df20eb6fb42ee895ad"
+        "title": "Ico",
+        "_id": "5ee397b8b045644557c81b4b"
       },
       {
-        "title": "Ico",
-        "_id": "62b5cdd8729b2b4f76322d92"
+        "title": "Icon",
+        "_id": "5ee397aeb045644557c81ab7"
+      }
+    ]
+  },
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "5ee397b8b045644557c81b50"
+      },
+      {
+        "title": "intro logo",
+        "_id": "5ee397b8b045644557c81b51"
       }
     ]
   }

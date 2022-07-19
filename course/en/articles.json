@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62b98aad39a1c18b258f9521",
-    "_parentId": "62b98aad39a1c18b258f9520",
+    "_id": "5fd8d72191349e0067628e98",
+    "_parentId": "5fd8d72191349e0067628e97",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -75,8 +75,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62b98aad39a1c18b258f9522",
-    "_parentId": "62b98aad39a1c18b258f9520",
+    "_id": "5fd8d72191349e0067628e99",
+    "_parentId": "5fd8d72191349e0067628e97",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -93,11 +93,13 @@
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
+      "_correctToPass": 60,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
       "_randomisation": {
         "_isEnabled": false,
         "_blockCount": 1
@@ -139,8 +141,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62b98aad39a1c18b258f9523",
-    "_parentId": "62b98aad39a1c18b258f9520",
+    "_id": "5fd8d72191349e0067628e9a",
+    "_parentId": "5fd8d72191349e0067628e97",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

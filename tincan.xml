@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tincan xmlns="http://projecttincan.com/tincan.xsd">
     <activities>
-        <activity id="https://theodi.stream.org/xapi/activities/learning-lockker-stand-alone-xapi-test" type="http://adlnet.gov/expapi/activities/course">
-            <name><![CDATA[xAPI Test: Stand alone w/LL config]]></name>
+        <activity id="https://theodi.stream.org/xapi/activities/learning-lockker-stand-alone-xapi-test-dt" type="http://adlnet.gov/expapi/activities/course">
+            <name><![CDATA[xAPI Test]]></name>
             <description lang="en-US"><![CDATA[]]></description>
             <launch lang="en-US">index.html</launch>
         </activity>

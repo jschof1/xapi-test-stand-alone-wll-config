@@ -1,6 +1,6 @@
 {
-  "title": "xAPI Test: Stand alone w/LL config",
-  "displayTitle": "xAPI Test: Stand alone w/LL config",
+  "title": "xAPI Test",
+  "displayTitle": "xAPI Test",
   "body": "",
   "subtitle": "",
   "description": "",
@@ -63,36 +63,16 @@
       }
     },
     "_components": {
+      "_assessmentSummary": {
+        "ariaRegion": "Assessment summary."
+      },
+      "_mygame": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
       "_text": {
-        "ariaRegion": ""
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
-      "_selectchoice": {
-        "ariaRegion": "Selectchoice. Select from input options and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
-      },
-      "_choose": {
-        "ariaRegion": "Choose. Select options and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_graphic": {
-        "ariaRegion": ""
-      },
-      "_gmcq": {
-        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_lottie": {
         "ariaRegion": ""
       },
       "_narrative": {
@@ -102,41 +82,20 @@
       },
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
-        "skipToTranscript": "Skip to transcript",
-        "playText": "Play",
-        "pauseText": "Pause",
-        "stopText": "Stop",
-        "audioPlayerText": "Audio Player",
-        "videoPlayerText": "Video Player",
-        "tracksText": "Captions/Subtitles",
-        "timeSliderText": "Time Slider",
-        "muteText": "Mute Toggle",
-        "unmuteStatusText": "Unmute",
-        "muteStatusText": "Mute",
-        "volumeSliderText": "Volume Slider",
-        "fullscreenText": "Fullscreen",
-        "goFullscreenText": "Go Fullscreen",
-        "turnOffFullscreenText": "Turn off Fullscreen",
-        "noneText": "None",
-        "skipBackText": "Skip back %1 seconds",
-        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
-        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+        "skipToTranscript": "Skip to transcript"
       },
       "_hotgraphic": {
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
         "popupPagination": "{{itemNumber}} / {{totalItems}}"
       },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      "_graphic": {
+        "ariaRegion": ""
       },
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
       },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
@@ -146,18 +105,37 @@
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
       },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
       },
-      "_matchingGraphic": {
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit.",
         "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
         "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
       },
-      "_dropItems": {
-        "ariaRegion": "Drop items",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      "_moral-machine-gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_moralMachineResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       }
     },
     "_extensions": {
@@ -207,7 +185,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "62b98aad39a1c18b258f9520",
+        "_id": "5fd8d72191349e0067628e97",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -218,14 +196,14 @@
   "_type": "course",
   "themeVariables": {
     "_global": {
-      "max-width": "1400px",
+      "max-width": "1024px",
       "device-width-small": "520px",
       "device-width-medium": "520px",
       "device-width-large": "900px",
       "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
       "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
       "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
-      "font-color": "#4d4d4d",
+      "font-color": "#000000",
       "font-color-inverted": "#ffffff",
       "link": "",
       "link-inverted": "",
@@ -233,14 +211,14 @@
       "link-inverted-hover": ""
     },
     "_themeLogo": {
-      "theme-logo": "",
-      "theme-logo-top-padding": "0rem",
-      "theme-logo-width": "100%"
+      "theme-logo": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "theme-logo-top-padding": "1rem",
+      "theme-logo-width": "80%"
     },
     "_colors": {
-      "color-one": "#3099ff",
+      "color-one": "#ff0000",
       "color-one-inverted": "#ffffff",
-      "color-two": "#666666",
+      "color-two": "#de4a8d",
       "color-two-inverted": "#ffffff",
       "color-three": "#7d82be",
       "color-three-inverted": "#ffffff",
@@ -284,9 +262,9 @@
       "validation-error-inverted": "#ffffff"
     },
     "_progress": {
-      "progress": "#9096a0",
-      "progress-inverted": "#ffffff",
-      "progress-border": "#9096a0"
+      "progress": "#ffffff",
+      "progress-inverted": "#000000",
+      "progress-border": "#ffffff"
     },
     "_menu": {
       "menu-item": "",
@@ -308,7 +286,7 @@
       "nav-icon-inverted": "#ffffff",
       "nav-icon-hover": "#000000",
       "nav-icon-inverted-hover": "#ffffff",
-      "navigation-logo": "",
+      "navigation-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png",
       "nav-logo-height": "60px",
       "nav-logo-height-mobile": "50px",
       "nav-logo-padding-top": "5px",
@@ -325,7 +303,7 @@
     "_footer": {
       "footer": "#000000",
       "footer-inverted": "#ffffff",
-      "footer-logo": ""
+      "footer-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
     },
     "_notify": {
       "notify": "#36cde8",
@@ -370,6 +348,21 @@
       "shadow-inverted": "#ffffff"
     }
   },
+  "_aboutPage": {
+    "_items": []
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "All rights reserved",
+        "description": "<p>&copy; The Open Data Institute</p><p>All rights reserved.</p><p>Not for deployment or distribution.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
   "_bookmarking": {
     "_isEnabled": true,
     "_level": "block",
@@ -380,38 +373,6 @@
       "yes": "Yes",
       "no": "No"
     }
-  },
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "About",
-        "description": "<p>This is a SCORM test package to test LMS functionality and compatibility.</p><p>It was built from Adapt Framework 5.10.1.</p><p>&nbsp;</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
-  "_ODILicence": {
-    "_items": [
-      {
-        "title": "All rights reserved",
-        "description": "<p>© The Open Data Institute</p><p>All rights reserved.</p><p>Not for deployment or distribution.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
-  "_FooterLink": {
-    "_items": [
-      {
-        "title": "Privacy Policy",
-        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
-      }
-    ]
   },
   "_assessment": {
     "_isPercentageBased": true,
